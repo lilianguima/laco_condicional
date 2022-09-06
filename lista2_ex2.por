@@ -1,6 +1,6 @@
 programa
 {
-	 biblioteca Matematica --> mat
+	
 
 	
 	funcao  inicio ()
